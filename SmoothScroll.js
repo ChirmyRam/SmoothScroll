@@ -6,7 +6,7 @@
 // @author       svnzk
 // @match        *://*/*
 // @run-at       document-start
-// @resource smscl     https://cdn.bootcss.com/smoothscroll/1.4.9/SmoothScroll.min.js
+// @resource smscl     https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@1.0/SmoothScroll.min.js
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
 // @grant        GM_setValue
