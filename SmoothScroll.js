@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         质感字体&&页面平滑滚动
-// @namespace    http://svnzk.github.io/
-// @version      0.12
-// @description  让每个页面的字体变得有质感 页面滚动更平滑 字体换为萍方字体并添加字体阴影
+// @name         SmoothScroll
+// @namespace    https://github.com/ChirmyRam/SmoothScroll
+// @version      1.0
+// @description  让每个页面的字体变得有质感 页面滚动更平滑 字体换为萍方常规体并添加字体阴影
 // @author       svnzk
 // @match        *://*/*
 // @run-at       document-start
@@ -13,7 +13,7 @@
 // @grant        GM_getValue
 // @grant        GM_getResourceText
 // ==/UserScript==
-//2019-11-26 更新 v0.12 :  [新增] 增加了设置窗口 可以对平滑滚动和阴影半径进行设置 [重构] 使用API替代了部分逻辑; [修复] 部分论坛清除外来 style 的问题;
+//2020-3-24 更新 v1.0 :  字体改为萍方常规体;
 var smoothscroll,shadow_r,cssdom;
 var ip_switch, ip_range, sp_samp, btn_cancel, btn_submit,ddiv;
 function ShowSettingWin(){
@@ -66,7 +66,7 @@ function ShowTip(){
         zgcsstext += "font-weight:bold !important;font-family: 'PingFang SC Regular','Microsoft YaHei';}";
 
     var zgstyle = GM_addStyle(zgcsstext);
-    GM_registerMenuCommand("质感字体 脚本设置 Setting", ShowSettingWin);
+    GM_registerMenuCommand("设置", ShowSettingWin);
     var zgstyleid = '#'+zgstyle.id;
     window.onload=()=>{
         if(document.head.querySelectorAll(zgstyleid).length < 1){
