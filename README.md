@@ -8,9 +8,9 @@
 也尝试将脚本中**萍方常规**换为**思源黑体**，仍不尽人意，只有**萍方**系列字体在此脚本中效果良好，而**萍方常规**大小正合适。~~纯代码小白，只会换字体。~~**注意此脚本会造成部分网页的图标显示不完全，若出现此情况需暂时关闭此脚本然后刷新网页。**<br/>
 于是采用此方案：
 > 浏览器字体使用思源黑体，网页字体使用脚本强制渲染为萍方常规。
-# 效果
-![启用脚本前](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/before.jpg)
-![启用脚本后](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/after.jpg)
 # 安装
 * 先下载字体安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/PingFang-SC-Regular.ttf
 * 再点击安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/SmoothScroll.user.js
+# 效果
+![启用脚本前](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/before.jpg)
+![启用脚本后](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/after.jpg)
