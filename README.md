@@ -9,8 +9,8 @@
 于是采用此方案：
 > 浏览器字体使用思源黑体，网页字体使用脚本强制渲染为萍方常规。
 # 效果
-![启用脚本前](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@2.0/before.jpg
-![启用脚本后](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@2.0/after.jpg
+![启用脚本前](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/before.jpg)
+![启用脚本后](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/after.jpg)
 # 安装
-* 先下载字体安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@2.0/PingFang-SC-Regular.ttf<br/>
-* 再点击安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@2.0/SmoothScroll.user.js
+* 先下载字体安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/PingFang-SC-Regular.ttf
+* 再点击安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/SmoothScroll.user.js
