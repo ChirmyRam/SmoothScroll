@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SmoothScroll
 // @namespace    https://github.com/ChirmyRam/SmoothScroll
-// @version      1.0
+// @version      2.0
 // @description  让每个页面的字体变得有质感 页面滚动更平滑 字体换为萍方常规体并添加字体阴影
 // @author       svnzk@ChirmyRam
 // @match        *://*/*
@@ -13,6 +13,7 @@
 // @grant        GM_getValue
 // @grant        GM_getResourceText
 // ==/UserScript==
+//2020-08-08 更新 v2.0 :  字体改为萍方常规体;
 var smoothscroll,shadow_r,cssdom;
 var ip_switch, ip_range, sp_samp, btn_cancel, btn_submit,ddiv;
 function ShowSettingWin(){
