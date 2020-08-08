@@ -12,6 +12,7 @@
 * 先下载字体安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/PingFang-SC-Regular.ttf
 * 再点击安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/SmoothScroll.user.js
 # 效果
+可点击两张图片在两个标签页中打开方便对比。
 ## 启用脚本前：
 ![启用脚本前](https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/before.jpg)
 ## 启用脚本后：
