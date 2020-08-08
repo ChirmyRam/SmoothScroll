@@ -1,4 +1,4 @@
-# SmoothScroll<br/>
+# 简介
 网页平滑滚动及字体替换为萍方常规字体油猴脚本。<br/>
 原脚本地址：https://greasyfork.org/zh-CN/scripts/383636<br/>
 因觉得原脚本字体的萍方粗体过于粗大，于是自己改为了较细的萍方常规。~~纯代码小白，只会换字体。~~<br/>
@@ -9,9 +9,9 @@
 # 效果
 
 
-# 安装说明
+# 安装
 先下载字体并安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll/PingFang-SC-Regular.ttf
 再安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll/SmoothScroll.user.js
 
-# 注意事项
+# 注意
 此脚本会造成部分网页的图标显示不完全，若出现此情况需暂时关闭此脚本然后刷新网页。
