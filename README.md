@@ -9,9 +9,9 @@
 # 效果
 
 
-#安装说明
+# 安装说明
 先下载字体并安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll/PingFang-SC-Regular.ttf
 再安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll/SmoothScroll.user.js
 
-#注意事项
+# 注意事项
 此脚本会造成部分网页的图标显示不完全，若出现此情况需暂时关闭此脚本然后刷新网页。
