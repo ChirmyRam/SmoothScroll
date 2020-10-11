@@ -7,8 +7,10 @@
 由于Chrome及新版Edge浏览器均不支持DirectWrite、mactype字体渲染，于是使用脚本强制渲染。我尝试在浏览器外观设置中更换了很多字体，大多发虚模糊，而**思源黑体**效果较好，但在启用脚本后强制渲染为**萍方常规**更有质感且滚动更平滑。<br/>
 也尝试将脚本中**萍方常规**换为**思源黑体**，仍不尽人意，只有**萍方**系列字体在此脚本中效果良好，而**萍方常规**大小正合适。~~纯代码小白只会换字体~~，于是采用此方案：
 > 浏览器字体使用思源黑体，网页字体使用脚本强制渲染为萍方常规。
-
-**注意此脚本会造成部分网页的图标显示不完全且粗细不分。**<br/>
+# bug
+* 网页字体粗细不分
+* 部分网页的图标显示不完全
+* 部分文档编辑页面光标聚焦出现偏差
 # 安装
 * 先下载字体安装：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/PingFang-SC-Regular.ttf
 * 再点击安装脚本：https://cdn.jsdelivr.net/gh/ChirmyRam/SmoothScroll@latest/SmoothScroll.user.js
